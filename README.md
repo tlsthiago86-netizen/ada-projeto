@@ -5,6 +5,7 @@ projeto ada
 
 Repositório do curso **Técnicas de Programação (Python)**, parte da trilha **Analista de Dados**.
 
+
 ## Sobre o curso
 
 Este curso apresenta as principais ferramentas usadas no trabalho diário com dados em Python, com foco em prática e construção de portfólio. O conteúdo está organizado em cinco aulas, complementadas por um projeto final em grupo.
